@@ -1,0 +1,294 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Panasonic Convertible 7-in-1 with Additional AI Mode Cooling 2023",
+      "image": "http://localhost:3000/kisspng-air-conditioner-air-conditioning-energy-conservati-ac-5ad1d369c07734.3168648315237005857884.png",
+      "highlights": [
+        "1.5 Ton",
+        "No need to manually reset the settings post power-cut"
+      ],
+      "price": "₹36,490",
+      "category": "1",
+      "brand": "Panasonic"
+    },
+    {
+      "id": "2",
+      "name": "LG Convertible 7-in-1 with Additional AI Mode Cooling 2023",
+      "image": "http://localhost:3000/kisspng-air-conditioner-air-conditioning-energy-conservati-ac-5ad1d369c07734.3168648315237005857884.png",
+      "highlights": [
+        "1.5 Ton",
+        "No need to manually reset the settings post power-cut"
+      ],
+      "price": "₹35000",
+      "category": "1",
+      "brand": "LG"
+    },
+    {
+      "id": "3",
+      "name": "Samsung Convertible 7-in-1 with Additional AI Mode Cooling 2023",
+      "image": "http://localhost:3000/kisspng-air-conditioner-air-conditioning-energy-conservati-ac-5ad1d369c07734.3168648315237005857884.png",
+      "highlights": [
+        "1.5 Ton",
+        "No need to manually reset the settings post power-cut"
+      ],
+      "price": "₹36,000",
+      "category": "1",
+      "brand": "Samsung"
+    },
+    {
+      "id": "4",
+      "name": "Bajaj Convertible 7-in-1 with Additional AI Mode Cooling 2023",
+      "image": "http://localhost:3000/kisspng-air-conditioner-air-conditioning-energy-conservati-ac-5ad1d369c07734.3168648315237005857884.png",
+      "highlights": [
+        "1.5 Ton",
+        "No need to manually reset the settings post power-cut"
+      ],
+      "price": "₹34,000",
+      "category": "1",
+      "brand": "Bajaj"
+    },
+    {
+      "id": "5",
+      "name": "SAMSUNG Crystal Vision 4K iSmart",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/j/2/j/-original-imagtq4hqqt37tgx.jpeg?q=70",
+      "highlights": ["1Netflix|Prime Video|Disney+Hotstar|Youtube", "Tizen"],
+      "price": "₹67,990",
+      "category": "2",
+      "brand": "Samsung"
+    },
+    {
+      "id": "6",
+      "name": "SONY 138.8 cm (55 inch) Ultra HD (4K) LED Smart Google TV 2022 Edition",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/v/x/n/-original-imaguem7rhy9zzrf.jpeg?q=70",
+      "highlights": [
+        "1Netflix|Prime Video|Disney+Hotstar|Youtube",
+        "Google TV"
+      ],
+      "price": "₹52,990",
+      "category": "2",
+      "brand": "Sony"
+    },
+    {
+      "id": "7",
+      "name": "MOTOROLA EnvisionX 165 cm (65 inch) QLED Ultra HD (4K) Smart Google TV",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/b/g/n/-original-imagtwterapbxxdj.jpeg?q=70",
+      "highlights": [
+        "1Netflix|Prime Video|Disney+Hotstar|Youtube",
+        "TGoogle TV"
+      ],
+      "price": "₹47,999",
+      "category": "2",
+      "brand": "MOTOROLA"
+    },
+    {
+      "id": "8",
+      "name": "SAMSUNG Galaxy F04",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/e/d/r/-original-imagmym54wrhzgpn.jpeg?q=70",
+      "highlights": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "13MP + 2MP | 5MP Front Camera"
+      ],
+      "price": "₹6,499",
+      "category": "3",
+      "brand": "Samsung"
+    },
+    {
+      "id": "9",
+      "name": "SAMSUNG Galaxy F04",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/p/g/-original-imagm2jtdqagpcfe.jpeg?q=70",
+      "highlights": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "13MP + 2MP | 5MP Front Camera"
+      ],
+      "price": "₹6,499",
+      "category": "3",
+      "brand": "Samsung"
+    },
+    {
+      "id": "10",
+      "name": "Google Pixel 7a (Coral, 128 GB)  (8 GB RAM)",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/a/r/-original-imagtrf9qm3dufq9.jpeg?q=70",
+      "highlights": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64aMP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh"
+      ],
+      "price": "₹35,999",
+      "category": "3",
+      "brand": "Google Pixel"
+    },
+    {
+      "id": "11",
+      "name": "windows 7a (Coral, 128 GB)  (8 GB RAM)",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/a/r/-original-imagtrf9qm3dufq9.jpeg?q=70",
+      "highlights": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64aMP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh"
+      ],
+      "price": "₹35,999",
+      "category": "3",
+      "brand": "Windows"
+    },
+    {
+      "id": "12",
+      "name": "Motorola Mobile 12",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/2/5/galaxy-m14-5g-sm-m146b-samsung-original-imagzwrqnpzujxks.jpeg?q=70",
+      "highlights": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64MP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh Battery"
+      ],
+      "price": "₹15,000",
+      "category": "3",
+      "brand": "Motorola"
+    },
+    {
+      "id": "13",
+      "name": "Nokia Mobile 13",
+      "image": "https://rukminim2.flixcart.com/image/832/832/ktizdzk0/mobile/b/t/k/c01-plus-ta-1396-ds-nokia-original-imag6updf4nzdndh.jpeg?q=70",
+      "highlights": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64MP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh Battery"
+      ],
+      "price": "₹10,000",
+      "category": "3",
+      "brand": "Nokia"
+    },
+    {
+      "id": "14",
+      "name": "Samsung Mobile 14",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/l/l/-original-imagueeyshyqzbfh.jpeg?q=70",
+      "highlights": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64MP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh Battery"
+      ],
+      "price": "₹20,000",
+      "category": "3",
+      "brand": "Samsung"
+    },
+    {
+      "id": "15",
+      "name": "Huawei Mobile 15",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/5/k/90-diamond-silver-8gb-256gb-rea-nx9-honor-original-imagtscvyr8gju44.jpeg?q=70",
+      "highlights": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64MP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh Battery"
+      ],
+      "price": "₹23,000",
+      "category": "3",
+      "brand": "Huawei"
+    },
+    {
+      "id": "16",
+      "name": "LG Mobile 16",
+      "image": "https://rukminim2.flixcart.com/image/832/832/kfvfwy80/mobile/k/q/k/lg-g8x-lmg850emw-original-imafw8gedgv9vxtt.jpeg?q=70",
+      "highlights": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64MP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh Battery"
+      ],
+      "price": "₹29,999",
+      "category": "3",
+      "brand": "LG"
+    },
+    {
+      "id": "17",
+      "name": "Huawei Mobile 17",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/5/k/90-diamond-silver-8gb-256gb-rea-nx9-honor-original-imagtscvyr8gju44.jpeg?q=70",
+      "highlights": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64MP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh Battery"
+      ],
+      "price": "₹17,000",
+      "category": "3",
+      "brand": "Huawei"
+    },
+    {
+      "id": "18",
+      "name": "Samsung Mobile 18",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=70",
+      "highlights": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64MP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh Battery"
+      ],
+      "price": "₹13,000",
+      "category": "3",
+      "brand": "Samsung"
+    },
+    {
+      "id": "19",
+      "name": "Sony Mobile 19",
+      "image": "https://rukminim2.flixcart.com/image/832/832/j8ndea80/mobile/c/r/w/sony-xperia-xa1-plus-g3416-original-imaeym7pvtjpkgqh.jpeg?q=70",
+      "highlights": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64MP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh Battery"
+      ],
+      "price": "₹19,990",
+      "category": "3",
+      "brand": "Sony"
+    },
+    {
+      "id": "20",
+      "name": "OnePlus Mobile 20",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/o/z/nord-ce-3-lite-5g-ce2099-oneplus-original-imagzj3wqxzgquah.jpeg?q=70",
+      "highlights": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64MP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh Battery"
+      ],
+      "price": "₹21,747",
+      "category": "3",
+      "brand": "OnePlus"
+    },
+    {
+      "id": "21",
+      "name": "Xiaomi Mobile 21",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/j/o/-original-imaghkvue4yjecju.jpeg?q=70",
+      "highlights": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64MP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh Battery"
+      ],
+      "price": "₹20,999",
+      "category": "3",
+      "brand": "Xiaomi"
+    }
+  ],
+  "category": [
+    {
+      "name": "Ac",
+      "image": "https://www.mynokia.com/sites/default/files/styles/aspect_16_9_1200px/public/2020-12/2880X1620px-1_0.jpg?itok=dtn_TZqA",
+      "id": "1"
+    },
+    {
+      "name": "Tv",
+      "image": "https://www.intex.in/cdn/shop/products/1_9b8014ad-124e-4742-a628-9a4c4affe617_2226x.progressive.jpg?v=1648711109",
+      "id": "2"
+    },
+    {
+      "name": "Mobile Phone",
+      "image": "https://img.etimg.com/thumb/msid-102636785,width-300,height-225,imgsize-63600,,resizemode-75/top-6-oneplus-phones-under-40000.jpg",
+      "id": "3"
+    }
+  ]
+}
